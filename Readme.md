@@ -27,7 +27,7 @@ Le processus a été pensé pour être transparent, rapide et sans friction, all
 ### 1. Interactions Globales (Client ⇄ Entreprise & B2B)
 *(Modes de communication C2B, B2C et B2B)*
 
-![Interactions et Modes](WhatsApp Image 2026-09-12 at 16.07.13.jpeg)
+![Interactions et Modes](workflow.jpeg)
 
 ### 2. Le Cycle de Vie d'un Document (Exemple : Devis à Facture)
 *(Les 4 étapes clés : Demande > Édition > Validation > Clôture)*
