@@ -32,7 +32,7 @@ Le processus a été pensé pour être transparent, rapide et sans friction, all
 ### 2. Le Cycle de Vie d'un Document (Exemple : Devis à Facture)
 *(Les 4 étapes clés : Demande > Édition > Validation > Clôture)*
 
-![Workflow Devis Facturation](arch logique).jpeg)
+![Workflow Devis Facturation](arch logique.jpeg)
 
 ---
 
