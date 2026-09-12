@@ -32,7 +32,7 @@ Le processus a été pensé pour être transparent, rapide et sans friction, all
 ### 2. Le Cycle de Vie d'un Document (Exemple : Devis à Facture)
 *(Les 4 étapes clés : Demande > Édition > Validation > Clôture)*
 
-![Workflow Devis Facturation](arch logique.jpeg)
+![Workflow Devis Facturation](arch-logique.jpeg)
 
 ---
 
@@ -40,7 +40,7 @@ Le processus a été pensé pour être transparent, rapide et sans friction, all
 
 Le projet repose sur une architecture multiplateforme unifiée, permettant d'offrir une expérience de bureau aux entreprises (Web) et une expérience mobile native aux clients, tout en communiquant avec une API centrale.
 
-![Architecture Technique](arch technique.jpeg)
+![Architecture Technique](arch-technique.jpeg)
 
 * **Frontend (Mobile & Web) :** Flutter / Dart - Pour une interface rapide, réactive et unifiée sur iOS, Android et Navigateur PC.
 * **Backend (API REST) :** Node.js avec Express - Cerveau du système gérant la logique métier, l'authentification (JWT), la conversion HTML vers PDF et l'incrustation des cachets.
